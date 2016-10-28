@@ -1,0 +1,1046 @@
+[
+    {
+        "outputFile": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 43,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 41,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 41,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 58,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 58,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 38,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 38,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 47,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 47,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 52,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 52,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 52,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 52,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 51,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 51,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 57,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 55,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 39,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 35,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 42,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 45,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 42,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 45,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 49,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 33,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 44,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 47,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 56,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 59,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 52,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 49,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 52,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/BJ1613班课堂资料/第十一天二维码上午/QRCode/zxinglibrary/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/bluesky/Desktop/QRCode/zxinglibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 43,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 41,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 41,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 58,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 58,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 38,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 38,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 47,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 47,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 52,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 52,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 52,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 52,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 51,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 51,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 57,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 55,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 39,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 35,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 42,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 45,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 42,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 40,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 45,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 854,
+                        "endColumn": 43,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 49,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 898,
+                        "endColumn": 47,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 33,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 946,
+                        "endColumn": 31,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 44,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 978,
+                        "endColumn": 42,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 47,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 56,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1067,
+                        "endColumn": 54,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 59,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1122,
+                        "endColumn": 57,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 52,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 49,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 52,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/bluesky/Desktop/QRCode/zxinglibrary/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

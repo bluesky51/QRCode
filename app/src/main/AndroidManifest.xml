@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exam.sky.qrcode">
+
+    <!--调用系统相机进行自定义拍照-->
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-feature android:name="android.hardware.Camera"></uses-feature>
+    <uses-feature android:name="android.hardware.Camera.autofocus"></uses-feature>
+
+   <!--申请震动器的权限-->
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--声明二维码扫描界面的Activity,该类在zxinglibrary-->
+        <activity android:name="com.zxing.library.activity.CaptureActivity"></activity>
+    </application>
+
+</manifest>
