@@ -7,6 +7,8 @@
     <uses-feature android:name="android.hardware.Camera"></uses-feature>
     <uses-feature android:name="android.hardware.Camera.autofocus"></uses-feature>
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
    <!--申请震动器的权限-->
     <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
 

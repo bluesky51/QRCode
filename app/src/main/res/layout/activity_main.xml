@@ -27,21 +27,32 @@
 
         android:id="@+id/editText" />
 
-    <Button
-        android:text="生成二维码"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button2"
-        android:layout_below="@+id/editText"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:onClick="generatedQRCode" />
-
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:id="@+id/imageView"
         android:layout_below="@+id/button2"
+        android:src="@mipmap/ic_launcher"
          />
+    <Button
+        android:text="生成含logo的二维码"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_toRightOf="@+id/button2"
+        android:layout_toEndOf="@+id/button2"
+        android:id="@+id/button3"
+        android:onClick="generatedQRCodeByImg"
+        android:layout_below="@+id/editText" />
+
+    <Button
+        android:text="生成二维码"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="generatedQRCode"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
