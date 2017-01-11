@@ -39,25 +39,20 @@
 	    }
 	    
 库中源码的基本说明：  
-####CaptureActivity:二维码的扫描界面：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.SurfaceView+Camera:二维码扫描界面(自定义相机的扩充)  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.SurfaceView操作类SurfaceHolder以及SurfaceHolder.Callback  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.Activity的生命周期：  
+####CaptureActivity:二维码的扫描界面：    
+ &emsp;&emsp;1.SurfaceView+Camera:二维码扫描界面(自定义相机的扩充)      
+ &emsp;&emsp;2.SurfaceView操作类SurfaceHolder以及SurfaceHolder.Callback      
+ &emsp;&emsp;3.Activity的生命周期      
 
-&emsp;&emsp;&emsp;&emsp;&emsp;备注：Camera：聚焦，闪光灯，震动，音频      
-####ViewfinderView：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.所在的包com.zxing.library.view.ViewfinderView  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.二维码扫描界面上绘制的线条等图  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.自定义View:一般重写：构造方法，onMeasure(),onLayout(),onDraw(),onTouchEvent()  
-&emsp;&emsp;&emsp;&emsp;&emsp;备注：invalidate()刷新界面，重新调用onDraw(),重新绘制  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.重点是onDraw()；画8个角，该颜色的frameColor画中间波动的线；  
+&emsp;&emsp;&emsp;&emsp;&emsp;备注：Camera：聚焦，闪光灯，震动，音频        
+####ViewfinderView      
+ &emsp;&emsp;1.所在的包com.zxing.library.view.ViewfinderView      
+ &emsp;&emsp;2.二维码扫描界面上绘制的线条等图     
+ &emsp;&emsp;3.自定义View:一般重写：构造方法，onMeasure(),onLayout(),onDraw(),onTouchEvent()      
+ &emsp;&emsp;备注：invalidate()刷新界面，重新调用onDraw(),重新绘制      
+ &emsp;&emsp;4.重点是onDraw()；画8个角，该颜色的frameColor画中间波动的线    
 
 ####DecodeHandler处理二维码扫描的解码信息：  
 &emsp;&emsp;&emsp;&emsp;&emsp;重点是  private void decode(byte[] data, int width, int height)：该方法中重点是for双层循环
- *
- *
- */
-
-
 
 
