@@ -140,6 +140,7 @@ public class QRCodeUtils {
                 mBitmap.getWidth(), mBitmap.getHeight(), m, false);
 
 
+
         HashMap<EncodeHintType, Object> map = new HashMap<>();
         map.put(EncodeHintType.CHARACTER_SET, "utf-8");
         map.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.H);
