@@ -55,7 +55,8 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
         if (code == -1) {
             //授权失败
             ActivityCompat.requestPermissions(this, new String[]{
-                    Manifest.permission.CAMERA
+                     Manifest.permission.CAMERA,Manifest.permission.READ_EXTERNAL_STORAGE,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE
             }, 101);
         } else {
             //授权成功
@@ -105,7 +106,7 @@ public class MainActivity extends AppCompatActivity implements View.OnLongClickL
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (requestCode == 101) {
-            if (grantResults[0] == 0) {
+            if ((grantResults[0] == 0)&&(grantResults[1] == 0)&&(grantResults[2] == 0)){
                 //授权成功
                 isFlag = true;
             } else {
